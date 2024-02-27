@@ -9,6 +9,6 @@ Data una lista della spesa, stampare sulla pagina (anche brutalmente, basta che 
 
 3. realizzare un ciclo while nel quale la condizione di partenza è che i deve essere minore della lunghezza della lista. Così il ciclo continua fino a quando non si verifica più questa condizione
 
-4. all'interno del ciclo consol.log() per vedere stampati gli elementi della lista
+4. all'interno del ciclo consol.log() per vedere stampati iin pagina gli elementi della lista
 
 5. incrementare i fino a quando non sarà maggirore della lunghezza della lista allora il ciclo si ferma

@@ -18,8 +18,14 @@ i = 0;
 // ciclo while i < lista
 while (i < listaSpesa.length){
   // 4
+  // stampa in console
   console.log(listaSpesa[i]);
   // 5
   // incremento di i fino a quando non raggiunge la lunghezza della lista
   i++;
 }
+
+// stampa in pagina
+document.getElementById('lista').innerHTML = `
+  Alimenti da comprare: <br> ${listaSpesa}
+  `
